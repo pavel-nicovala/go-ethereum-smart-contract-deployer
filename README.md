@@ -12,9 +12,7 @@ Go poc for a simple smart contract deployer
 
 _Config_
 
-```sh
 A valid wallet private key needs to be sourced for PRIVATE_KEY in .env        
-```
 
 _Run_
 ```sh            
