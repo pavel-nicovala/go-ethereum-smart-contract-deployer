@@ -12,7 +12,7 @@ Go poc for a simple smart contract deployer
 
 _Config_
 
-A valid wallet private key needs to be sourced for PRIVATE_KEY in .env, this poc is configured for holesky network but can be changed to any other network if valid .env variables are soruced.         
+A valid wallet private key needs to be sourced for PRIVATE_KEY in .env, this poc is configured for holesky network but can be changed to any other network if valid .env variables are sourced.         
 
 _Run_
 ```sh            
